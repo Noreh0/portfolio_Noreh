@@ -6,8 +6,8 @@ sudo apt-get install apache2 -y
 
 sudo su
 
-git clone https://github.com/denilsonbonatti/mundo-invertido.git
+git clone https://github.com/Noreh0/portfolio_Noreh.git
 
-cd mundo-invertido
+cd portfolio_Noreh
 
 cp -R * /var/www/html
